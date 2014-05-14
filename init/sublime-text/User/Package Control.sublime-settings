@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"CTags",
+		"Git",
+		"GitGutter",
+		"PlainTasks",
+		"Quick File Creator",
+		"Railscasts Extended",
+		"Ruby Hash Converter",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	]
+}

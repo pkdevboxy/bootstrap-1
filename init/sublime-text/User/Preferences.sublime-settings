@@ -1,0 +1,46 @@
+{
+	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags",
+		"*.sublime-workspace",
+		"*.sublime-project",
+		".DS_Store",
+		"models.dot",
+		"models.svg"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".idea",
+		".sass-cache",
+		".bundle",
+		"tmp/*",
+		"log/*"
+	],
+	"font_face": "Monaco",
+	"font_size": 12,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log"
+	],
+	"remember_open_files": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
