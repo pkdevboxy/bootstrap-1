@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 export RUBY_CONFIGURE_OPTS="--with-readline-dir=$(brew --prefix readline)"
-RUBY_20=2.0.0-p353
+RUBY_20=2.0.0-p481
 
 brew install rbenv
 brew install ruby-build
