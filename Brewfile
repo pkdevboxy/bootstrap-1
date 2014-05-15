@@ -27,7 +27,6 @@ cask install cyberduck
 cask install dropbox
 cask install firefox
 cask install flash
-cask install gitx
 cask install google-chrome
 cask install imagealpha
 cask install imageoptim
