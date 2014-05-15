@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+export BOOTSTRAP_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-curl "https://dl.dropboxusercontent.com/u/1397059/apps/webify" -o /usr/local/bin/webify
-chmod +x /usr/local/bin/webify
+mkdir ~/.bin
+
+curl "https://dl.dropboxusercontent.com/u/1397059/apps/webify" -o ~/.bin/webify
+chmod +x ~/.bin/webify
+
+cp "${BOOTSTRAP_DIR}/init/bin/generate_ctags" ~/.bin/
+chmod +x ~/.bin/generate_ctags
