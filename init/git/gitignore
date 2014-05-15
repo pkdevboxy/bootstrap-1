@@ -1,0 +1,24 @@
+*.sublime-project
+*.sublime-workspace
+.idea
+*.dump
+.tags_sorted_by_file
+.tags
+.gemtags
+.coffeetags
+
+# Rails
+public/uploads
+models.dot
+models.png
+models.svg
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
