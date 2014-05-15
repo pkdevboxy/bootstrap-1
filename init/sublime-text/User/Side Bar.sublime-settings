@@ -1,0 +1,36 @@
+[
+  {"id": "side-bar-files-open-with",
+    "children":
+    [
+
+      {
+        "caption": "Preview",
+        "id": "side-bar-files-open-with-preview",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Preview.app",
+                  "extensions":"psd|png|jpg|jpeg|gif"
+                }
+      },
+
+
+      {
+        "caption": "Photoshop",
+        "id": "side-bar-files-open-with-photoshop",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Adobe Photoshop CS5.app",
+                  "extensions":"psd|png|jpg|jpeg|gif"
+                }
+      },
+
+
+      //separator
+      // {"caption":"-"},
+    ]
+  }
+]
