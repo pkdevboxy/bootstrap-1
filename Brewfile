@@ -38,5 +38,6 @@ cask install send-to-kindle
 cask install skype
 cask install speedlimit
 cask install transmission
+cask install viscosity
 
 cleanup
