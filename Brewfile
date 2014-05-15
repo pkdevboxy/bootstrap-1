@@ -11,6 +11,8 @@ install libyaml
 install wget
 install ffmpeg
 install ffmpeg2theora
+install sphinx --pgsql
+install redis
 
 # Casks
 tap phinze/cask
