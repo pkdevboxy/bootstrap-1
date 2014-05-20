@@ -21,3 +21,6 @@ rbenv global $RUBY_20
 rbenv rehash
 
 git clone https://github.com/sstephenson/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
+
+echo "--color" > ~/.rspec
+
