@@ -3,6 +3,7 @@ upgrade
 
 # devtools
 install graphicsmagick
+install graphviz
 install node
 install postgresql
 install readline
