@@ -5,6 +5,7 @@ export BUNDLE_EDITOR="subl"
 alias rld="source ~/.zshrc"
 alias zshconfig="st ~/.zshrc"
 alias tunnel="ssh -R 3000:localhost:3000 madyankin.name && pbcopy 'http://madyankin.name:3000'"
+alias graph_models="railroady -M | dot -Tpng > models.png"
 
 
 function convert_for_ipad()  {
