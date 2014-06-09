@@ -1,5 +1,5 @@
 export EDITOR="vim"
-export BUNDLE_EDITOR="subl"
+export BUNDLER_EDITOR="subl"
 
 
 alias rld="source ~/.zshrc"
