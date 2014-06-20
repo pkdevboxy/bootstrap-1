@@ -1,3 +1,3 @@
 {
-    "command":  "generate_ctags",
+    "command":  "zsh -c 'source ~/.zshrc; ~/.bin/generate_ctags'",
 }
