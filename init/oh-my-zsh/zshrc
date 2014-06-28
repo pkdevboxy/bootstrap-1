@@ -41,6 +41,6 @@ plugins=(brew bundler gem git git-extras npm osx postgres rails rake rbenv ruby 
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=$PATH:./bin:~/.bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/npm/bin:/opt/X11/bin:/usr/texbin
+export PATH=$PATH:./bin:~/.bin:./node_modules/.bin/:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/npm/bin:/opt/X11/bin:/usr/texbin
 
 export LC_ALL=ru_RU.UTF-8
