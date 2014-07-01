@@ -8,3 +8,6 @@ chmod +x ~/.bin/webify
 
 cp "${BOOTSTRAP_DIR}/init/bin/generate_ctags" ~/.bin/
 chmod +x ~/.bin/generate_ctags
+
+
+npm install -g svgo
