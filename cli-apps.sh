@@ -11,3 +11,4 @@ chmod +x ~/.bin/generate_ctags
 
 
 npm install -g svgo
+npm install -g svg-sprite
